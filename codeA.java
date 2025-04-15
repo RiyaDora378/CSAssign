@@ -1,6 +1,6 @@
 //program to perform different operations on strings
 
-public class TaskOne 
+public class codeA
   {
     public static void main(String[] args)
     {
