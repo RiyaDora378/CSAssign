@@ -1,6 +1,6 @@
 //taking input from user and count number of vowels and words in a string
 import java.util.Scanner;
-public class TaskTwo
+public class CodeB
 {
   public static void main(String[] args)
   {
